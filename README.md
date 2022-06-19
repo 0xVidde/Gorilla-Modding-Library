@@ -6,5 +6,20 @@ This library was made for the game Gorilla Tag but some of the shit might work o
 Either compile the library (Remove the temporary "MainClass") into a dll and add it as a reference in your own mod or just add the library source code as scripts into your own mod.
 
 -- Features --
-![Alt text]([![image](https://user-images.githubusercontent.com/75181788/174493052-1a5f1b62-fdd9-4eb5-a5b8-03bd6c024809.png)](https://cdn.discordapp.com/attachments/904018723105558581/986246450826600468/unknown.png?size=4096)"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986246450826600468/unknown.png?size=4096"...")
+
 ![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986247233299152926/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986247755351617556/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986248309691789332/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986248916838277140/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986249985827934238/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986250812261040128/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986251221876760576/unknown.png?size=4096"...")
+
+![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986252849681940490/unknown.png?size=4096"...")
