@@ -6,7 +6,8 @@ This library was made for the game Gorilla Tag but some of the shit might work o
 Either compile the library (Remove the temporary "MainClass") into a dll and add it as a reference in your own mod or just add the library source code as scripts into your own mod.
 
 # IF YOU SEE ANY PROBLEMS THEN REPORT THEM 
-
+# Discord Server: https://discord.gg/d6Py4a4pf8
+# Discord: Vidde#3061
 
 # -- Features --
 ![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986246450826600468/unknown.png?size=4096"...")
