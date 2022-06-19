@@ -10,16 +10,16 @@ Either compile the library (Remove the temporary "MainClass") into a dll and add
 
 ![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986247233299152926/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986247755351617556/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986247755351617556/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986248309691789332/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986248309691789332/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986248916838277140/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986248916838277140/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986249985827934238/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986249985827934238/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986250812261040128/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986250812261040128/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986251221876760576/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986251221876760576/unknown.png?size=4096"...")
 
-![Alt text]([https://cdn.discordapp.com/attachments/904018723105558581/986252849681940490/unknown.png?size=4096"...")
+![Alt text](https://cdn.discordapp.com/attachments/904018723105558581/986252849681940490/unknown.png?size=4096"...")
